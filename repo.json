@@ -1,0 +1,20 @@
+[
+    {
+        "Name": "Pee Chat",
+        "InternalName": "peeChat",
+        "Author": "Yhumi Noire",
+        "Description": "Use /pee for /yell",
+        "Tags": [ "yell", "peechat", "limsa" ],
+        "RepoUrl": "https://github.com/CynicalNicole/XIVPeeChat",
+        "AssemblyVersion": "1.0.0.0",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 3,
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "DownloadCount": 0,
+        "LastUpdate": 1625742600,
+        "DownloadLinkInstall": "https://github.com/CynicalNicole/XIVPeeChat/releases/download/1.0.0/PeeChat.zip",
+        "DownloadLinkTesting": "https://github.com/CynicalNicole/XIVPeeChat/releases/download/1.0.0/PeeChat.zip",
+        "DownloadLinkUpdate": "https://github.com/CynicalNicole/XIVPeeChat/releases/download/1.0.0/PeeChat.zip"
+    }
+]
